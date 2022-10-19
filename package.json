@@ -1,0 +1,21 @@
+{
+  "name": "edulang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemKhudiakov/edulang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemKhudiakov/edulang/issues"
+  },
+  "homepage": "https://github.com/ArtemKhudiakov/edulang#readme"
+}
